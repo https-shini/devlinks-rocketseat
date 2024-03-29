@@ -11,7 +11,7 @@
 ## ☆ Hospedagem
 
 - Acesse o link abaixo e veja meu código hospedado online.<br>
-
+https://https-shini.github.io/devlinks-rocketseat/
 
 ## ☆ Tecnologias
 
