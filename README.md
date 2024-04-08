@@ -8,6 +8,8 @@
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+![Preview](./assets/img/cover.png)
+
 ## ☆ Hospedagem
 
 - Acesse o link abaixo e veja meu código hospedado online.<br>
@@ -31,7 +33,7 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover, o programa 
 ## ☆ Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321), mas não se esqueça que é necessário ter conta no [Figma](https://figma.com) para acessá-lo. <br>
-Caso não tenha conta pode visualizar o layout da página inicial do projeto através da foto abaixo. Caso queira ver ele funcionando na íntegra recomendo que acesse o link aqui na parte de Hospedagem e abra o site para ter uma melhor experiência.<br>
+Caso queira ver ele funcionando na íntegra recomendo que acesse o link aqui na parte de Hospedagem e abra o site para ter uma melhor experiência.<br>
 
 ![Preview](./assets/img/cover.png)
 
