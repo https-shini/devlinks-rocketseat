@@ -7,6 +7,9 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
+<br><br>
+
+![Preview](./assets/img/banner.png)
 
 ## ☆ Hospedagem
 
@@ -33,7 +36,7 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover, o programa 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321), mas não se esqueça que é necessário ter conta no [Figma](https://figma.com) para acessá-lo. <br>
 Caso queira ver ele funcionando na íntegra recomendo que acesse o link aqui na parte de Hospedagem e abra o site para ter uma melhor experiência.<br>
 
-![Preview](./assets/img/cover.png)
+![Preview](./assets/img/hero.png)
 
 ## ☆ Licença
 
