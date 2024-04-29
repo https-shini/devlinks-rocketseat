@@ -232,7 +232,7 @@ a {
     background: var(--bg-color-btn-link-hover);
 }
 
-/* Social Links */
+/* Social Links
 .wrapper-social-links {
     display: flex;
     flex-wrap: wrap;
@@ -259,13 +259,17 @@ a {
 .wrapper-social-links .social-link:hover,
 .wrapper-social-links .social-link:active {
     background: var(--bg-color-btn-social-link-hover);
-}
+} */
 
 /* Footer */
 .wrapper-footer {
     display: flex;
     place-content: center;
     padding: 1.5rem 0;
+
+    bottom: 0;
+    position: fixed;
+    width: 28%;
 
     text-align: center;
     font: 400 0.875rem/150% "Inter", Arial, sans-serif;
