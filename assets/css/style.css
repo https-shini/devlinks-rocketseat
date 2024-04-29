@@ -275,3 +275,17 @@ a {
     font: 400 0.875rem/150% "Inter", Arial, sans-serif;
     color: var(--text-color);
 }
+
+@media screen and (max-width: 600px) {
+    .wrapper-footer {
+        display: flex;
+        place-content: center;
+        padding: 1.5rem 0;
+
+        bottom: 0;
+        position: fixed;
+        width: 90%;
+
+        text-align: center;
+    }
+}
