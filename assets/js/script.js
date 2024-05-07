@@ -46,19 +46,24 @@ const isSystemThemeDark = () => {
 
 handleDefaultTheme();
 function handleDefaultTheme() {
-    /**
-     * @type {HTMLInputElement | null}
-     */
     const switchTheme = document.getElementById("switch-toggle-theme");
 
     if (!switchTheme) return;
 
+    // Verificar se o tema do sistema é escuro
     if (isSystemThemeDark()) {
         document.body.classList.add("dark");
         switchTheme.checked = false;
-        return;
+    } else {
+        document.body.classList.remove("dark");
+        switchTheme.checked = true;
     }
 
-    document.body.classList.remove("dark");
-    switchTheme.checked = true;
+    // Função para verificar o tema do sistema
+    function isSystemThemeDark() {
+        return (
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches
+        );
+    }
 }
